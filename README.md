@@ -4,7 +4,7 @@
 <p>Code built with: HTML 5/ CSS 3/ JavaScript. 
 Frameworks used: Bootstrap and jQuery</p>
 
-<p>API Used: "Random Famous Quotes" API https://www.mashape.com/andruxnet/random-famous-quotes </p>
+<p>API Used: "Random Famous Quotes" API ( https://www.mashape.com/andruxnet/random-famous-quotes )</p>
 
 
 
